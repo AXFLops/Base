@@ -15,10 +15,8 @@ also its supports on any linux if you have pyhton installed but i am too lazy to
 
 
 
-#     #                      
-##   ## ######  ####  #    # 
-# # # # #      #    # #    # 
-#  #  # #####  #    # #    # 
-#     # #      #    # # ## # 
-#     # #      #    # ##  ## 
-#     # ######  ####  #    # 
+
+
+
+
+Meow....
